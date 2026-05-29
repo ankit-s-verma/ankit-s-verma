@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Ankit 👋<br><br>🎓 MSc Applied Artificial Intelligence Graduate<br><br>🤖 Aspiring AI Engineer | Python Developer<br><br>📍 India<br><br>🚀 Building AI solutions and continuously learning modern AI technologies<br><br>⚡ Fun fact: I transitioned from Software Testing to Applied AI and enjoy solving problems at the intersection of engineering and intelligence
+# Hi there, I'm Ankit 👋<br><br>🎓 MSc Applied Artificial Intelligence Graduate<br><br>🤖 AI & Machine Learning Engineer | Python Developer<br><br>📍 India<br><br>🚀 Building AI solutions and continuously learning modern AI technologies<br><br>⚡ Fun fact: I transitioned from Software Testing to Applied AI and enjoy solving problems at the intersection of engineering and intelligence
 
 
 ## 🌐 Socials:
